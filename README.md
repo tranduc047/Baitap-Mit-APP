@@ -1,6 +1,6 @@
 # Thông tin cá nhân
-- Họ và Tên: 
-- MSSV: 
+- Họ và Tên: Trần Quang Đức
+- MSSV: K215480106140
 - Lớp: K57KMT
 # BT_MIT_APP
 - Link Mit App: https://ai2.appinventor.mit.edu/#6487815769620480
